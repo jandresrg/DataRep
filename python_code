@@ -1,0 +1,47 @@
+Last login: Wed May 27 07:09:50 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+MacBook-Pro-2:~ JorgeRam$ emacs -nw python_code.py
+-bash: emacs: command not found
+MacBook-Pro-2:~ JorgeRam$ /Applications/Emacs.app/Contents/MacOS/Emacs -nw python_code.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+File Edit Options Buffers Tools Python Help                                     
+print('Hello Github')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-UUU:**--F1  python_code.py   All L1     (Python ElDoc) ------------------------
+Auto-saving...done
